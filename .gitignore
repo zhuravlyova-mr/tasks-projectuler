@@ -1,0 +1,6 @@
+Debug
+*.vcx*
+*.pdf
+*.old
+*.sln
+.vs
